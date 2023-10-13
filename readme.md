@@ -2,6 +2,7 @@
 
 This project was created to keep the progress of using huggingface transformers course
 
+The [question_answering.ipynb](https://github.com/daniakaguict/transformers-course/blob/main/question_answering.ipynb) contains the tutorial from this [link](https://huggingface.co/learn/nlp-course/chapter7/7?fw=tf)
 
 Reference: https://huggingface.co/learn/nlp-course/chapter1/1
 
